@@ -5,6 +5,9 @@
     color: black;
     font-size: 8em;
 }
+form{
+    margin-top: 10%;
+}
 .textbox{
     width: 30%;
     border-radius: 5%;
